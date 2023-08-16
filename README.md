@@ -1,2 +1,2 @@
-# speaking
-Repository to share my speaking slide decks
+# Speaker sessions
+In this repository, you'll find the slide decks from various (inter)national events or meetups.
